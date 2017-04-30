@@ -6,6 +6,7 @@ I. Introduction
      
 II. Files contained and their description
      This directory contains the following files-
+     
      1. demo.m
          This file demonstrates the CNC FLSA [1] for denoising a 
          sparse piecewise constant signal. This file reproduces example 1 
